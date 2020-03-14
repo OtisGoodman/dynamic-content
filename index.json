@@ -1,0 +1,7 @@
+{
+  "version-resource": "0.0.0",
+  "version-api": "0.0.0",
+  "entries": {
+    "client.shield.scutum_test": "client/textures/entity/shield/dynamic/scutum_test.png"
+  }
+}
