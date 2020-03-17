@@ -1,7 +1,10 @@
 {
-  "version-resource": "0.0.0",
-  "version-api": "0.0.0",
-  "entries": {
-    "client.shield.scutum_test": "client/textures/entity/shield/dynamic/scutum_test.png"
-  }
+    "version-resource": "0.0.0",
+    "version-api": "0.0.0",
+    "entries": {
+        "client.shield.scutum_test": "client/textures/entity/shield/dynamic/scutum_test.png",
+        "client.shield.kite_test": "client/textures/entity/shield/dynamic/kite_test.png",
+        "client.shield.clipeus_test": "client/textures/entity/shield/dynamic/clipeus_test.png",
+        "lorem.ipsum": "common/lorem_ipsum.txt"
+    }
 }
