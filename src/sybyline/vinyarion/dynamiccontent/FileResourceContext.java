@@ -11,7 +11,6 @@ import sybyline.vinyarion.dynamiccontent.api.*;
 public class FileResourceContext implements ResourceContext {
 
 	public static final String INDEX_JSON = "index.json";
-	public static final Gson GSON = new GsonBuilder().disableHtmlEscaping().create();
 	public static final JsonParser PARSE = new JsonParser();
 
 	public FileResourceContext(File allContextsLocation, String domain, String project, String version) {
