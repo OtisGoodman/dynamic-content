@@ -100,7 +100,7 @@ The current API version is `0.0.0` (./index.json: `"version-api": "0.0.0"`).
 
 The very base of a resource repository is an `index.json`:
 
-```json
+```javascript
 {
     // The version of the current resources, different from the project's version.
     // Incrementing this will force a lazy redownload of resources in all distributed instances of your application.
